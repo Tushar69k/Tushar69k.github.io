@@ -1,10 +1,10 @@
-# Portfolio Website - Abhishek
+# Portfolio Website - Tushar Kharade
 
 A modern, aesthetic, and responsive portfolio website showcasing Android development expertise, competitive programming achievements, and professional connections.
 
 ## About
 
-This portfolio belongs to **Abhishek** (TheAbhiOG), an Android Developer specializing in Kotlin and Jetpack Compose. The website presents a comprehensive view of skills, projects, certifications, and achievements across various platforms.
+This portfolio belongs to **Tushar Kharade** (Tushar69k), an Android Developer specializing in Kotlin and Jetpack Compose. The website presents a comprehensive view of skills, projects, certifications, and achievements across various platforms.
 
 ## Features
 
@@ -23,7 +23,7 @@ This portfolio belongs to **Abhishek** (TheAbhiOG), an Android Developer special
   - All links verified and accessible
 
 - **Projects Page**: 
-  - Featured Android projects (Dice Roller, WoofGoogle, My Meal App, Jetpack Compose Notes)
+  - Featured Android projects (Dice Roller, Quote App, Beat Detection & Rhythm Visualizer)
   - Technology tags for each project
   - Direct links to GitHub repositories
 
@@ -34,7 +34,7 @@ This portfolio belongs to **Abhishek** (TheAbhiOG), an Android Developer special
 
 ## Design Highlights
 
-- Modern purple/indigo gradient theme
+- Modern orange/teal gradient theme
 - Clean and aesthetic user interface
 - Fully responsive (mobile, tablet, desktop)
 - Smooth animations and micro-interactions
@@ -56,20 +56,20 @@ This portfolio belongs to **Abhishek** (TheAbhiOG), an Android Developer special
 
 ### Home
 - Hero section with availability badge
-- Statistics showcase (4+ Projects, 6+ Platforms, Verified Google Dev)
+- Statistics showcase (3+ Projects, 6+ Platforms, Verified Google Dev)
 - Comprehensive About Me section
 - Technology stack organized by categories:
   - Mobile Development (Kotlin, Jetpack Compose, Material Design 3, MVVM, Gradle)
-  - Programming Languages (Java, Python, JavaScript, C/C++)
-  - Web Technologies (React, HTML5, CSS3, Node.js)
+  - Programming Languages (Java, Python, C/C++, Kotlin)
+  - Web Technologies (HTML5, CSS3, XML)
   - Database & Tools (SQL, Git, GitHub, REST APIs)
 - Skills showcase cards
 - Quick links to all sections
 
 ### Assignments
-- Grid layout of 6 academic assignments
-- Categorized by subject area (Core CS, Web Tech, AI/ML)
-- Includes DSA, DBMS, Web Dev, Networks, ML, OS
+- Grid layout of 7 academic assignments
+- Categorized by subject area (Programming Languages, Data Science, DBMS, Android)
+- Includes C++, Java, Kotlin, Python, Data Science, DBMS, Android Development
 - Metadata with year and category tags
 
 ### Certificates & Achievements
@@ -81,11 +81,10 @@ This portfolio belongs to **Abhishek** (TheAbhiOG), an Android Developer special
 - All profile links included and accessible
 
 ### Projects
-- 4 Featured Android projects
+- 3 Featured Projects
 - Dice Roller Application (Kotlin, Android Studio, Material Design)
-- WoofGoogle (Jetpack Compose, Material 3, LazyColumn)
-- Jetpack Compose Notes (comprehensive learning resource)
-- My Meal App (Retrofit, MVVM, Coil, Material 3)
+- Quote App (Kotlin, Android, Material Design)
+- Beat Detection & Rhythm Visualizer (Audio Processing, Visualization)
 - Technology tags for each project
 - GitHub repository links
 
@@ -98,26 +97,30 @@ This portfolio belongs to **Abhishek** (TheAbhiOG), an Android Developer special
 ## Profile Information
 
 This portfolio showcases:
-- **Name**: Abhishek (TheAbhiOG, 43H1-BOI)
+- **Name**: Tushar Kharade
+- **GitHub**: [@Tushar69k](https://github.com/Tushar69k)
 - **Role**: Android Developer • Competitive Programmer • Tech Enthusiast
 - **Specialization**: Kotlin, Jetpack Compose, Mobile App Development
-- **Platforms**: 
-  - GitHub: [@43H1-BOI](https://github.com/43H1-BOI)
-  - LinkedIn: [@theabhiog](https://www.linkedin.com/in/theabhiog/)
-  - Google Developer: [TheAbhiOG](https://g.dev/TheAbhiOG)
-  - LeetCode: [TheAbhiOG](https://leetcode.com/u/TheAbhiOG/)
-  - HackerRank: [TheAbhiOG](https://www.hackerrank.com/profile/TheAbhiOG)
-  - Code360: [TheAbhiOG](https://www.naukri.com/code360/profile/TheAbhiOG)
+- **Repositories**: 
+  - Java: [JAVA-LANGUAGE](https://github.com/Tushar69k/JAVA-LANGUAGE)
+  - Python: [Python-Language](https://github.com/Tushar69k/Python-Language)
+  - C++: [CPP-Language](https://github.com/Tushar69k/CPP-Language)
+  - Kotlin: [KOTLIN](https://github.com/Tushar69k/KOTLIN)
+  - DBMS: [DBMS](https://github.com/Tushar69k/DBMS)
+  - Android: [Android](https://github.com/Tushar69k/Android)
+- **Projects**:
+  - [Quote App](https://github.com/Tushar69k/Quote-App)
+  - [Beat Detection & Rhythm Visualizer](https://github.com/Tushar69k/hackathon)
+  - [Dice Roller App](https://github.com/Tushar69k/RollDice)
 
 ## Recent Updates (2024)
 
 ✨ **Enhanced Design & Information**
-- Added comprehensive technology stack display
-- Improved home page with statistics and availability badge
-- Enhanced certificates page with detailed achievements
-- Added floating tech icons animation
-- Improved mobile responsiveness
-- Added SEO meta tags and favicon
+- Changed color scheme to orange/teal gradient
+- Personalized all content for Tushar Kharade
+- Updated all repository and project links
+- Added DBMS and Android repositories to assignments
+- Updated certificate links (Google Skills, Credly)
 - Enhanced visual hierarchy and color scheme
 
 ## How to Run
@@ -146,4 +149,4 @@ Then navigate to `http://localhost:8080` in your browser.
 
 ## License
 
-© 2024 Abhishek. All rights reserved.
+© 2024 Tushar Kharade. All rights reserved.
